@@ -1,18 +1,4 @@
  /** @type {import('tailwindcss').Config} */
-// export const content = ['./pages/**/*.{html,js}',
-//   './components/**/*.{html,js}',
-//   './index.html'];
-// export const theme = {
-//   screens: {
-//     'sm': '640px',
-//     "md": "768px",
-//     "lg": "1024px",
-//     'xl': '1280',
-//     "2xl": "1536px",
-//   },
-//   extend: {},
-// };
-// export const plugins = [];
 
 module.exports = {
   content: [
