@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.google.com/specimen/Outfit");
+
+@font-face {
+    font-family: "Outfit";
+    src: url("../public/fonts/static/Outfit-Regular.ttf");
+}
