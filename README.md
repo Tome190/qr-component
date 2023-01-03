@@ -28,4 +28,4 @@ I also learnt how to customize some css properties in the config file.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Grasit)
+- Frontend Mentor - [Grasit](https://www.frontendmentor.io/profile/Grasit)
