@@ -523,14 +523,14 @@ video {
   margin-bottom: auto;
 }
 
-.my-8 {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+.my-6 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
-.mx-8 {
-  margin-left: 2rem;
-  margin-right: 2rem;
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .box-border {
@@ -581,9 +581,9 @@ video {
   font-family: Outfit, sans-serif;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
 }
 
 .text-lg {
@@ -615,6 +615,7 @@ video {
 
 @font-face {
   font-family: "Outfit";
+
   src: url("../public/fonts/static/Outfit-Regular.ttf");
 }
 
